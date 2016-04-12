@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3299663a-9f02-4766-8c66-94fce36d3656" name="Default" comment="" />
+    <ignored path="testecshopwechat.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="testecshopwechat" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cls_session.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/cls_session.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.133022">
+              <caret line="140" column="13" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
+              <folding>
+                <marker date="1456884378000" expanded="true" signature="3811:3968" placeholder="INSERT INTO ${$this-&gt;session_table}... " />
+                <marker date="1456884378000" expanded="true" signature="4051:4204" placeholder="SELECT useri... ${$this-&gt;session_table}" />
+                <marker date="1456884378000" expanded="true" signature="5313:5415" placeholder="SELECT data,... ${$this-&gt;session_data_table}" />
+                <marker date="1456884378000" expanded="true" signature="8610:8671" placeholder="DELETE FROM " />
+                <marker date="1456884378000" expanded="true" signature="8804:8860" placeholder="DELETE FROM " />
+                <marker date="1456884378000" expanded="true" signature="9111:9178" placeholder="DELETE FROM " />
+                <marker date="1456884378000" expanded="true" signature="9596:9685" placeholder="DELETE FROM " />
+                <marker date="1456884378000" expanded="true" signature="9758:9855" placeholder="DELETE FROM " />
+                <marker date="1456884378000" expanded="true" signature="9893:9985" placeholder="DELETE FROM " />
+                <marker date="1456884378000" expanded="true" signature="10144:10165" placeholder="SELECT count... ${$this-&gt;session_table}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_transaction.dwt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/miqinew/user_transaction.dwt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="199" column="29" selection-start-line="199" selection-start-column="29" selection-end-line="199" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="e#7#482#0#PHP" expanded="true" />
+                <marker date="1458791590793" expanded="true" signature="3016:3089" placeholder="SELECT value... ${$ecs-&gt;table('touch_shop_config')}" />
+                <marker date="1458791590793" expanded="true" signature="4037:4118" placeholder="SELECT wxid ${$GLOBALS['ecs']-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="4223:4286" placeholder="SELECT nickn... wxch_user" />
+                <marker date="1458791590793" expanded="true" signature="6959:7068" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="7413:7670" placeholder="INSERT INTO ${$ecs-&gt;table('users')}... " />
+                <marker date="1458791590793" expanded="true" signature="9078:9179" placeholder="SELECT * FRO... ${$ecs-&gt;table('reg_fields')}" />
+                <marker date="1458791590793" expanded="true" signature="11556:11658" placeholder="SELECT id FR... ${$ecs-&gt;table('reg_fields')}" />
+                <marker date="1458791590793" expanded="true" signature="12473:12568" placeholder="INSERT INTO ${$ecs-&gt;table('reg_extend_info')}... " />
+                <marker date="1458791590793" expanded="true" signature="13981:14060" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="16898:17010" placeholder="select * fro... ${$ecs-&gt;table('user_card')}" />
+                <marker date="1458791590793" expanded="true" signature="17176:17250" placeholder="select user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="18727:18861" placeholder="select count... ${$ecs-&gt;table('user_card')}" />
+                <marker date="1458791590793" expanded="true" signature="19278:19352" placeholder="select user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="19539:19620" placeholder="select user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="22847:22948" placeholder="SELECT * FRO... ${$ecs-&gt;table('reg_fields')}" />
+                <marker date="1458791590793" expanded="true" signature="25194:25296" placeholder="SELECT id FR... ${$ecs-&gt;table('reg_fields')}" />
+                <marker date="1458791590793" expanded="true" signature="25739:25849" placeholder="SELECT * FRO... ${$ecs-&gt;table('reg_extend_info')}" />
+                <marker date="1458791590793" expanded="true" signature="26155:26298" placeholder="INSERT INTO ${$ecs-&gt;table('reg_extend_info')}... " />
+                <marker date="1458791590793" expanded="true" signature="29659:29789" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="33494:33571" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="36844:36923" placeholder="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="37666:37845" placeholder="SELECT g.goo... ${$ecs-&gt;table('order_goods')}" />
+                <marker date="1458791590793" expanded="true" signature="39154:39307" placeholder="SELECT order... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="44570:44644" placeholder="SELECT addre... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="48706:48841" placeholder="SELECT COUNT... ${$ecs-&gt;table('collect_goods')}" />
+                <marker date="1458791590793" expanded="true" signature="49778:49846" placeholder="SELECT goods... ${$ecs-&gt;table('goods')}" />
+                <marker date="1458791590793" expanded="true" signature="51063:51163" placeholder="DELETE FROM " />
+                <marker date="1458791590793" expanded="true" signature="52233:52371" placeholder="SELECT COUNT... ${$ecs-&gt;table('feedback')}" />
+                <marker date="1458791590793" expanded="true" signature="52409:52510" placeholder="SELECT * FRO... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="52631:52801" placeholder="SELECT COUNT... ${$ecs-&gt;table('feedback')}" />
+                <marker date="1458791590793" expanded="true" signature="54041:54504" placeholder="..." />
+                <marker date="1458791590793" expanded="true" signature="54058:54374" placeholder="..." />
+                <marker date="1458791590793" expanded="false" signature="54093:54104" placeholder="..." />
+                <marker date="1458791590793" expanded="false" signature="54261:54274" placeholder="..." />
+                <marker date="1458791590793" expanded="true" signature="54391:54457" placeholder="..." />
+                <marker date="1458791590793" expanded="true" signature="54782:54887" placeholder="SELECT COUNT... ${$ecs-&gt;table('comment')}" />
+                <marker date="1458791590793" expanded="true" signature="55806:56227" placeholder="..." />
+                <marker date="1458791590793" expanded="true" signature="55823:56114" placeholder="..." />
+                <marker date="1458791590793" expanded="false" signature="55858:55869" placeholder="..." />
+                <marker date="1458791590793" expanded="false" signature="56010:56023" placeholder="..." />
+                <marker date="1458791590793" expanded="true" signature="56131:56193" placeholder="..." />
+                <marker date="1458791590793" expanded="true" signature="62722:62852" placeholder="SELECT COUNT... ${$ecs-&gt;table('account_log')}" />
+                <marker date="1458791590793" expanded="true" signature="63181:63344" placeholder="SELECT * FRO... ${$ecs-&gt;table('account_log')}" />
+                <marker date="1458791590793" expanded="true" signature="64517:64643" placeholder="SELECT COUNT... ${$ecs-&gt;table('user_account')}" />
+                <marker date="1458791590793" expanded="true" signature="68774:68944" placeholder="INSERT INTO ${$GLOBALS['ecs']-&gt;table('pay_log')}... " />
+                <marker date="1458791590793" expanded="true" signature="71388:71472" placeholder="SELECT order... ${$ecs-&gt;table('pay_log')}" />
+                <marker date="1458791590793" expanded="true" signature="74052:74193" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('collect_goods')}" />
+                <marker date="1458791590793" expanded="true" signature="74481:74644" placeholder="INSERT INTO ${$GLOBALS['ecs']-&gt;table('collect_goods')}... " />
+                <marker date="1458791590793" expanded="true" signature="75314:75405" placeholder="SELECT user_... ${$ecs-&gt;table('feedback')}" />
+                <marker date="1458791590793" expanded="true" signature="75709:75792" placeholder="DELETE FROM " />
+                <marker date="1458791590793" expanded="true" signature="76068:76158" placeholder="DELETE FROM " />
+                <marker date="1458791590793" expanded="true" signature="77571:77651" placeholder="SELECT user_... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="78600:78671" placeholder="select * fro... ${$ecs-&gt;table('user_card')}" />
+                <marker date="1458791590793" expanded="true" signature="78773:78886" placeholder="select count... ${$ecs-&gt;table('user_card')}" />
+                <marker date="1458791590793" expanded="true" signature="79793:79886" placeholder="select rank_... ${$ecs-&gt;table('user_rank')}" />
+                <marker date="1458791590793" expanded="true" signature="80927:81080" placeholder="select count... ${$ecs-&gt;table('user_card')}" />
+                <marker date="1458791590793" expanded="true" signature="81716:81842" placeholder="select count... ${$ecs-&gt;table('user_card')}" />
+                <marker date="1458791590793" expanded="true" signature="82173:82254" placeholder="select * fro... ${$ecs-&gt;table('user_card')}" />
+                <marker date="1458791590793" expanded="true" signature="88954:89033" placeholder="SELECT COUNT... ${$ecs-&gt;table('user_bonus')}" />
+                <marker date="1458791590793" expanded="true" signature="90497:90573" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="91457:91533" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="92658:92768" placeholder="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="93385:93461" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="94163:94298" placeholder="SELECT count... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="95173:95227" placeholder="SELECT headi... wxch_user" />
+                <marker date="1458791590793" expanded="true" signature="95277:95328" placeholder="SELECT nickn... wxch_user" />
+                <marker date="1458791590793" expanded="true" signature="95792:95868" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="96570:96705" placeholder="SELECT count... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="97580:97634" placeholder="SELECT headi... wxch_user" />
+                <marker date="1458791590793" expanded="true" signature="97684:97735" placeholder="SELECT nickn... wxch_user" />
+                <marker date="1458791590793" expanded="true" signature="98199:98275" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="98977:99112" placeholder="SELECT count... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="99987:100041" placeholder="SELECT headi... wxch_user" />
+                <marker date="1458791590793" expanded="true" signature="100091:100142" placeholder="SELECT nickn... wxch_user" />
+                <marker date="1458791590793" expanded="true" signature="104233:104303" placeholder="SELECT * FRO... ${$ecs-&gt;table('email_list')}" />
+                <marker date="1458791590793" expanded="true" signature="104438:104533" placeholder="INSERT INTO ${$ecs-&gt;table('email_list')}... " />
+                <marker date="1458791590793" expanded="true" signature="107364:107431" placeholder="DELETE FROM " />
+                <marker date="1458791590793" expanded="true" signature="108785:108951" placeholder="SELECT order... ${$ecs-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="111314:111417" placeholder="SELECT shipp... ${$ecs-&gt;table('touch_shipping')}" />
+                <marker date="1458791590793" expanded="true" signature="112879:112989" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="116714:116823" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="119826:119936" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="121738:121980" placeholder="INSERT INTO ${$ecs-&gt;table('account_log')}... " />
+                <marker date="1458791590793" expanded="true" signature="124413:124798" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="124882:125267" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="125324:125654" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="125934:126530" placeholder="SELECT o.*, ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="126900:127495" placeholder="SELECT o.*, ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="127851:128383" placeholder="SELECT o.*, ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458791590793" expanded="true" signature="129411:129492" placeholder="SELECT wxid ${$GLOBALS['ecs']-&gt;table('users')}" />
+                <marker date="1458791590793" expanded="true" signature="129600:129663" placeholder="SELECT nickn... wxch_user" />
+                <marker date="1458791590793" expanded="true" signature="132177:132198" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('account_log')}" />
+                <marker date="1458791590793" expanded="true" signature="132376:132477" placeholder="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('account_log')}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib_transaction.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/include/lib_transaction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="283" column="39" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="39" />
+              <folding>
+                <marker date="1456884484000" expanded="true" signature="987:1092" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('users')}" />
+                <marker date="1456884484000" expanded="true" signature="3354:3487" placeholder="SELECT rank_... ${$GLOBALS['ecs']-&gt;table('user_rank')}" />
+                <marker date="1456884484000" expanded="true" signature="5970:6077" placeholder="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('user_address')}" />
+                <marker date="1456884484000" expanded="true" signature="6500:6638" placeholder="SELECT bonus... ${$GLOBALS['ecs']-&gt;table('user_bonus')}" />
+                <marker date="1456884484000" expanded="true" signature="9795:9804" placeholder="..." />
+                <marker date="1456884484000" expanded="true" signature="10442:10451" placeholder="..." />
+                <marker date="1456884484000" expanded="true" signature="11576:11762" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1456884484000" expanded="true" signature="14827:14971" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1456884484000" expanded="true" signature="17184:17274" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('user_address')}" />
+                <marker date="1456884484000" expanded="true" signature="17422:17504" placeholder="DELETE FROM " />
+                <marker date="1456884484000" expanded="true" signature="19340:19453" placeholder="SELECT shipp... ${$GLOBALS['ecs']-&gt;table('touch_shipping')}" />
+                <marker date="1456884484000" expanded="true" signature="22350:22620" placeholder="SELECT g.goo... ${$GLOBALS['ecs']-&gt;table('package_goods')}" />
+                <marker date="1456884484000" expanded="true" signature="24671:24784" placeholder="SELECT shipp... ${$GLOBALS['ecs']-&gt;table('touch_shipping')}" />
+                <marker date="1456884484000" expanded="true" signature="27681:27951" placeholder="SELECT g.goo... ${$GLOBALS['ecs']-&gt;table('package_goods')}" />
+                <marker date="1456884484000" expanded="true" signature="29819:30040" placeholder="SELECT order... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1456884484000" expanded="true" signature="30566:30676" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1456884484000" expanded="true" signature="32648:32755" placeholder="SELECT produ... ${$GLOBALS['ecs']-&gt;table('products')}" />
+                <marker date="1456884484000" expanded="true" signature="37687:37802" placeholder="DELETE FROM " />
+                <marker date="1456884484000" expanded="true" signature="38928:39050" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib_insert.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/include/lib_insert.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+              <folding>
+                <marker date="1457415091287" expanded="true" signature="1613:1634" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('sessions')}" />
+                <marker date="1457415091287" expanded="true" signature="2266:2451" placeholder="SELECT goods... ${$GLOBALS['ecs']-&gt;table('goods')}" />
+                <marker date="1457415091287" expanded="true" signature="13534:13704" placeholder="SELECT SUM(g... ${$GLOBALS['ecs']-&gt;table('cart')}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cls_template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/include/cls_template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1074" column="119" selection-start-line="1073" selection-start-column="14" selection-end-line="1074" selection-end-column="119" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cls_template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/cls_template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="420" column="45" selection-start-line="420" selection-start-column="45" selection-end-line="420" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.dwt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/themes/miqinew/index.dwt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="49" />
+              <folding>
+                <marker date="1458781248980" expanded="true" signature="3533:3619" placeholder="SELECT ad_ty... ${$ecs-&gt;table(&quot;ad_custom&quot;)}" />
+                <marker date="1458781248980" expanded="true" signature="3982:4146" placeholder="SELECT c.cat... ${$ecs-&gt;table(&quot;cat_recommend&quot;)}" />
+                <marker date="1458781248980" expanded="true" signature="4866:5212" placeholder="SELECT o.ord... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+                <marker date="1458781248980" expanded="true" signature="11016:11124" placeholder="SELECT link_... ${$GLOBALS['ecs']-&gt;table('friend_link')}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/etouch/ectouch.css" />
+        <option value="$PROJECT_DIR$/mobile/admin/includes/init.php" />
+        <option value="$PROJECT_DIR$/includes/cls_image.php" />
+        <option value="$PROJECT_DIR$/mobile/include/init.php" />
+        <option value="$PROJECT_DIR$/mobile/include/cls_ecshop.php" />
+        <option value="$PROJECT_DIR$/mobile/include/cls_image.php" />
+        <option value="$PROJECT_DIR$/mobile/admin/ads.php" />
+        <option value="$PROJECT_DIR$/includes/lib_insert.php" />
+        <option value="$PROJECT_DIR$/mobile/include/lib_insert.php" />
+        <option value="$PROJECT_DIR$/includes/lib_base.php" />
+        <option value="$PROJECT_DIR$/data/config.php" />
+        <option value="$PROJECT_DIR$/includes/cls_template.php" />
+        <option value="$PROJECT_DIR$/mobile/include/cls_template.php" />
+        <option value="$PROJECT_DIR$/themes/miqinew/user_transaction.dwt" />
+        <option value="$PROJECT_DIR$/mobile/include/lib_transaction.php" />
+        <option value="$PROJECT_DIR$/mobile/user.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="1c62e795-00f6-4949-9631-a7150a834cfc" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="32" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testecshopwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testecshopwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testecshopwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testecshopwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testecshopwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testecshopwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testecshopwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testecshopwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testecshopwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3299663a-9f02-4766-8c66-94fce36d3656" name="Default" comment="" />
+      <created>1456966526186</created>
+      <option name="number" value="Default" />
+      <updated>1456966526186</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13486141" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05952381" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25757575" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mobile/admin/ads.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/includes/lib_base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/lib_base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="593" column="30" selection-start-line="593" selection-start-column="30" selection-end-line="593" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/includes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="233" column="13" selection-start-line="233" selection-start-column="7" selection-end-line="233" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/templates/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/templates/login.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/etouch/ectouch.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/etouch/ectouch.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.SuperSlide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1190053">
+          <caret line="14" column="3024" selection-start-line="14" selection-start-column="3024" selection-end-line="14" selection-end-column="3024" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/templates/login.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/etouch/ectouch.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/templates/goods_list.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13768962">
+          <caret line="459" column="9" selection-start-line="459" selection-start-column="9" selection-end-line="459" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cls_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.067677945">
+          <caret line="527" column="31" selection-start-line="527" selection-start-column="31" selection-end-line="527" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cls_ecshop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35756385">
+          <caret line="162" column="13" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/templates/ads_info.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0144928">
+          <caret line="101" column="11" selection-start-line="100" selection-start-column="8" selection-end-line="101" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/templates/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.1538463">
+          <caret line="17" column="72" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/fckeditor/editor/filemanager/connectors/php/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5507247">
+          <caret line="151" column="32" selection-start-line="151" selection-start-column="31" selection-end-line="151" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/fckeditor/editor/filemanager/connectors/php/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5507247">
+          <caret line="151" column="32" selection-start-line="151" selection-start-column="31" selection-end-line="151" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/affiche.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31423897">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3535188">
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cls_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13157895">
+          <caret line="65" column="61" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/ad_position.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3232446">
+          <caret line="50" column="42" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3592437">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/includes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/lib_base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="593" column="30" selection-start-line="593" selection-start-column="30" selection-end-line="593" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35107914">
+          <caret line="127" column="9" selection-start-line="127" selection-start-column="9" selection-end-line="127" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22158274">
+          <caret line="223" column="77" selection-start-line="223" selection-start-column="19" selection-end-line="223" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/fckeditor/editor/filemanager/connectors/php/phpcompat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51265824">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/inc_constant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.16973126">
+          <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/data/query_caches/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/cls_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="36" selection-start-column="3" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/cls_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/lib_common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="574" column="72" selection-start-line="572" selection-start-column="7" selection-end-line="574" selection-end-column="72" />
+          <folding>
+            <marker date="1456909340000" expanded="true" signature="4143:4284" placeholder="SELECT regio... ${$GLOBALS['ecs']-&gt;table('region')}" />
+            <marker date="1456909340000" expanded="true" signature="4524:4635" placeholder="SELECT confi... ${$GLOBALS['ecs']-&gt;table('touch_shipping_area')}" />
+            <marker date="1456909340000" expanded="true" signature="15019:15114" placeholder="SELECT code,... ${$GLOBALS['ecs']-&gt;table('touch_shop_config')}" />
+            <marker date="1456909340000" expanded="true" signature="19110:19202" placeholder="SELECT brand... ${$GLOBALS['ecs']-&gt;table('brand')}" />
+            <marker date="1456909340000" expanded="true" signature="21190:21373" placeholder="SELECT act_i... ${$GLOBALS['ecs']-&gt;table('goods_activity')}" />
+            <marker date="1456909340000" expanded="true" signature="23884:24070" placeholder="SELECT act_i... ${$GLOBALS['ecs']-&gt;table('favourable_activity')}" />
+            <marker date="1456909340000" expanded="true" signature="24809:24916" placeholder="SELECT cat_i... ${$GLOBALS['ecs']-&gt;table('goods')}" />
+            <marker date="1456909340000" expanded="true" signature="29273:29411" placeholder="SELECT templ... ${$GLOBALS['ecs']-&gt;table('mail_templates')}" />
+            <marker date="1456909340000" expanded="true" signature="30023:30454" placeholder="INSERT INTO ${$GLOBALS['ecs']-&gt;table('order_action')}... " />
+            <marker date="1456909340000" expanded="true" signature="30219:30454" placeholder="SELECT order... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1456909340000" expanded="true" signature="32054:32242" placeholder="SELECT goods... ${$GLOBALS['ecs']-&gt;table('order_goods')}" />
+            <marker date="1456909340000" expanded="true" signature="32282:32540" placeholder="SELECT goods... ${$GLOBALS['ecs']-&gt;table('order_goods')}" />
+            <marker date="1456909340000" expanded="true" signature="34445:34561" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('virtual_card')}" />
+            <marker date="1456909340000" expanded="true" signature="34790:34954" placeholder="SELECT card_... ${$GLOBALS['ecs']-&gt;table('virtual_card')}" />
+            <marker date="1456909340000" expanded="true" signature="36555:36674" placeholder="SELECT order... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1456909340000" expanded="true" signature="38512:38668" placeholder="SELECT card_... ${$GLOBALS['ecs']-&gt;table('virtual_card')}" />
+            <marker date="1456909340000" expanded="true" signature="40516:40695" placeholder="SELECT ext_i... ${$GLOBALS['ecs']-&gt;table('goods_activity')}" />
+            <marker date="1456909340000" expanded="true" signature="49135:49215" placeholder="SELECT speci... ${$GLOBALS['ecs']-&gt;table('user_rank')}" />
+            <marker date="1456909340000" expanded="true" signature="70330:70427" placeholder="SELECT pro_p... ${$GLOBALS['ecs']-&gt;table('products')}" />
+            <marker date="1456909340000" expanded="true" signature="70951:71320" placeholder="SELECT a.att... ${$GLOBALS['ecs']-&gt;table('attribute')}" />
+            <marker date="1456909340000" expanded="true" signature="71891:72260" placeholder="SELECT a.att... ${$GLOBALS['ecs']-&gt;table('attribute')}" />
+            <marker date="1456909340000" expanded="true" signature="75812:76230" placeholder="SELECT pg.go... ${$GLOBALS['ecs']-&gt;table('package_goods')}" />
+            <marker date="1456909340000" expanded="true" signature="77166:77284" placeholder="SELECT goods... ${$GLOBALS['ecs']-&gt;table('goods_attr')}" />
+            <marker date="1456909340000" expanded="true" signature="78835:78907" placeholder="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('products')}" />
+            <marker date="1456909340000" expanded="true" signature="79003:79090" placeholder="SELECT goods... ${$GLOBALS['ecs']-&gt;table('goods_attr')}" />
+            <marker date="1456909340000" expanded="true" signature="80498:80771" placeholder="SELECT ga.go... ${$GLOBALS['ecs']-&gt;table('goods_attr')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <marker date="1457339601421" expanded="true" signature="3182:3232" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/lib_insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5202312">
+          <caret line="242" column="5" selection-start-line="242" selection-start-column="5" selection-end-line="242" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/cls_ecshop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/admin/ads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#483#0#PHP" expanded="false" />
+            <marker date="1457406263008" expanded="true" signature="4386:4463" placeholder="SELECT COUNT... ${$ecs-&gt;table('touch_ad')}" />
+            <marker date="1457406263008" expanded="true" signature="8553:9040" placeholder="INSERT INTO ${$ecs-&gt;table('touch_ad')}... " />
+            <marker date="1457406263008" expanded="true" signature="9809:9894" placeholder="SELECT * FRO... ${$ecs-&gt;table('touch_ad')}" />
+            <marker date="1457406263008" expanded="true" signature="19282:19350" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('touch_ad')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/themes/miqinew/index.dwt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="49" />
+          <folding>
+            <marker date="1458781248980" expanded="true" signature="3533:3619" placeholder="SELECT ad_ty... ${$ecs-&gt;table(&quot;ad_custom&quot;)}" />
+            <marker date="1458781248980" expanded="true" signature="3982:4146" placeholder="SELECT c.cat... ${$ecs-&gt;table(&quot;cat_recommend&quot;)}" />
+            <marker date="1458781248980" expanded="true" signature="4866:5212" placeholder="SELECT o.ord... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458781248980" expanded="true" signature="11016:11124" placeholder="SELECT link_... ${$GLOBALS['ecs']-&gt;table('friend_link')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/lib_base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15752625">
+          <caret line="346" column="25" selection-start-line="346" selection-start-column="25" selection-end-line="346" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/lib_insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+          <folding>
+            <marker date="1457415091287" expanded="true" signature="1613:1634" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('sessions')}" />
+            <marker date="1457415091287" expanded="true" signature="2266:2451" placeholder="SELECT goods... ${$GLOBALS['ecs']-&gt;table('goods')}" />
+            <marker date="1457415091287" expanded="true" signature="13534:13704" placeholder="SELECT SUM(g... ${$GLOBALS['ecs']-&gt;table('cart')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cls_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="420" column="45" selection-start-line="420" selection-start-column="45" selection-end-line="420" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/cls_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1074" column="119" selection-start-line="1073" selection-start-column="14" selection-end-line="1074" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/include/lib_transaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="283" column="39" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="39" />
+          <folding>
+            <marker date="1456884484000" expanded="true" signature="987:1092" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('users')}" />
+            <marker date="1456884484000" expanded="true" signature="3354:3487" placeholder="SELECT rank_... ${$GLOBALS['ecs']-&gt;table('user_rank')}" />
+            <marker date="1456884484000" expanded="true" signature="5970:6077" placeholder="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('user_address')}" />
+            <marker date="1456884484000" expanded="true" signature="6500:6638" placeholder="SELECT bonus... ${$GLOBALS['ecs']-&gt;table('user_bonus')}" />
+            <marker date="1456884484000" expanded="true" signature="9795:9804" placeholder="..." />
+            <marker date="1456884484000" expanded="true" signature="10442:10451" placeholder="..." />
+            <marker date="1456884484000" expanded="true" signature="11576:11762" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1456884484000" expanded="true" signature="14827:14971" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1456884484000" expanded="true" signature="17184:17274" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('user_address')}" />
+            <marker date="1456884484000" expanded="true" signature="17422:17504" placeholder="DELETE FROM " />
+            <marker date="1456884484000" expanded="true" signature="19340:19453" placeholder="SELECT shipp... ${$GLOBALS['ecs']-&gt;table('touch_shipping')}" />
+            <marker date="1456884484000" expanded="true" signature="22350:22620" placeholder="SELECT g.goo... ${$GLOBALS['ecs']-&gt;table('package_goods')}" />
+            <marker date="1456884484000" expanded="true" signature="24671:24784" placeholder="SELECT shipp... ${$GLOBALS['ecs']-&gt;table('touch_shipping')}" />
+            <marker date="1456884484000" expanded="true" signature="27681:27951" placeholder="SELECT g.goo... ${$GLOBALS['ecs']-&gt;table('package_goods')}" />
+            <marker date="1456884484000" expanded="true" signature="29819:30040" placeholder="SELECT order... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1456884484000" expanded="true" signature="30566:30676" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1456884484000" expanded="true" signature="32648:32755" placeholder="SELECT produ... ${$GLOBALS['ecs']-&gt;table('products')}" />
+            <marker date="1456884484000" expanded="true" signature="37687:37802" placeholder="DELETE FROM " />
+            <marker date="1456884484000" expanded="true" signature="38928:39050" placeholder="SELECT user_... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#7#482#0#PHP" expanded="true" />
+            <marker date="1458791590793" expanded="true" signature="3016:3089" placeholder="SELECT value... ${$ecs-&gt;table('touch_shop_config')}" />
+            <marker date="1458791590793" expanded="true" signature="4037:4118" placeholder="SELECT wxid ${$GLOBALS['ecs']-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="4223:4286" placeholder="SELECT nickn... wxch_user" />
+            <marker date="1458791590793" expanded="true" signature="6959:7068" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="7413:7670" placeholder="INSERT INTO ${$ecs-&gt;table('users')}... " />
+            <marker date="1458791590793" expanded="true" signature="9078:9179" placeholder="SELECT * FRO... ${$ecs-&gt;table('reg_fields')}" />
+            <marker date="1458791590793" expanded="true" signature="11556:11658" placeholder="SELECT id FR... ${$ecs-&gt;table('reg_fields')}" />
+            <marker date="1458791590793" expanded="true" signature="12473:12568" placeholder="INSERT INTO ${$ecs-&gt;table('reg_extend_info')}... " />
+            <marker date="1458791590793" expanded="true" signature="13981:14060" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="16898:17010" placeholder="select * fro... ${$ecs-&gt;table('user_card')}" />
+            <marker date="1458791590793" expanded="true" signature="17176:17250" placeholder="select user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="18727:18861" placeholder="select count... ${$ecs-&gt;table('user_card')}" />
+            <marker date="1458791590793" expanded="true" signature="19278:19352" placeholder="select user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="19539:19620" placeholder="select user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="22847:22948" placeholder="SELECT * FRO... ${$ecs-&gt;table('reg_fields')}" />
+            <marker date="1458791590793" expanded="true" signature="25194:25296" placeholder="SELECT id FR... ${$ecs-&gt;table('reg_fields')}" />
+            <marker date="1458791590793" expanded="true" signature="25739:25849" placeholder="SELECT * FRO... ${$ecs-&gt;table('reg_extend_info')}" />
+            <marker date="1458791590793" expanded="true" signature="26155:26298" placeholder="INSERT INTO ${$ecs-&gt;table('reg_extend_info')}... " />
+            <marker date="1458791590793" expanded="true" signature="29659:29789" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="33494:33571" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="36844:36923" placeholder="SELECT COUNT... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="37666:37845" placeholder="SELECT g.goo... ${$ecs-&gt;table('order_goods')}" />
+            <marker date="1458791590793" expanded="true" signature="39154:39307" placeholder="SELECT order... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="44570:44644" placeholder="SELECT addre... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="48706:48841" placeholder="SELECT COUNT... ${$ecs-&gt;table('collect_goods')}" />
+            <marker date="1458791590793" expanded="true" signature="49778:49846" placeholder="SELECT goods... ${$ecs-&gt;table('goods')}" />
+            <marker date="1458791590793" expanded="true" signature="51063:51163" placeholder="DELETE FROM " />
+            <marker date="1458791590793" expanded="true" signature="52233:52371" placeholder="SELECT COUNT... ${$ecs-&gt;table('feedback')}" />
+            <marker date="1458791590793" expanded="true" signature="52409:52510" placeholder="SELECT * FRO... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="52631:52801" placeholder="SELECT COUNT... ${$ecs-&gt;table('feedback')}" />
+            <marker date="1458791590793" expanded="true" signature="54041:54504" placeholder="..." />
+            <marker date="1458791590793" expanded="true" signature="54058:54374" placeholder="..." />
+            <marker date="1458791590793" expanded="false" signature="54093:54104" placeholder="..." />
+            <marker date="1458791590793" expanded="false" signature="54261:54274" placeholder="..." />
+            <marker date="1458791590793" expanded="true" signature="54391:54457" placeholder="..." />
+            <marker date="1458791590793" expanded="true" signature="54782:54887" placeholder="SELECT COUNT... ${$ecs-&gt;table('comment')}" />
+            <marker date="1458791590793" expanded="true" signature="55806:56227" placeholder="..." />
+            <marker date="1458791590793" expanded="true" signature="55823:56114" placeholder="..." />
+            <marker date="1458791590793" expanded="false" signature="55858:55869" placeholder="..." />
+            <marker date="1458791590793" expanded="false" signature="56010:56023" placeholder="..." />
+            <marker date="1458791590793" expanded="true" signature="56131:56193" placeholder="..." />
+            <marker date="1458791590793" expanded="true" signature="62722:62852" placeholder="SELECT COUNT... ${$ecs-&gt;table('account_log')}" />
+            <marker date="1458791590793" expanded="true" signature="63181:63344" placeholder="SELECT * FRO... ${$ecs-&gt;table('account_log')}" />
+            <marker date="1458791590793" expanded="true" signature="64517:64643" placeholder="SELECT COUNT... ${$ecs-&gt;table('user_account')}" />
+            <marker date="1458791590793" expanded="true" signature="68774:68944" placeholder="INSERT INTO ${$GLOBALS['ecs']-&gt;table('pay_log')}... " />
+            <marker date="1458791590793" expanded="true" signature="71388:71472" placeholder="SELECT order... ${$ecs-&gt;table('pay_log')}" />
+            <marker date="1458791590793" expanded="true" signature="74052:74193" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('collect_goods')}" />
+            <marker date="1458791590793" expanded="true" signature="74481:74644" placeholder="INSERT INTO ${$GLOBALS['ecs']-&gt;table('collect_goods')}... " />
+            <marker date="1458791590793" expanded="true" signature="75314:75405" placeholder="SELECT user_... ${$ecs-&gt;table('feedback')}" />
+            <marker date="1458791590793" expanded="true" signature="75709:75792" placeholder="DELETE FROM " />
+            <marker date="1458791590793" expanded="true" signature="76068:76158" placeholder="DELETE FROM " />
+            <marker date="1458791590793" expanded="true" signature="77571:77651" placeholder="SELECT user_... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="78600:78671" placeholder="select * fro... ${$ecs-&gt;table('user_card')}" />
+            <marker date="1458791590793" expanded="true" signature="78773:78886" placeholder="select count... ${$ecs-&gt;table('user_card')}" />
+            <marker date="1458791590793" expanded="true" signature="79793:79886" placeholder="select rank_... ${$ecs-&gt;table('user_rank')}" />
+            <marker date="1458791590793" expanded="true" signature="80927:81080" placeholder="select count... ${$ecs-&gt;table('user_card')}" />
+            <marker date="1458791590793" expanded="true" signature="81716:81842" placeholder="select count... ${$ecs-&gt;table('user_card')}" />
+            <marker date="1458791590793" expanded="true" signature="82173:82254" placeholder="select * fro... ${$ecs-&gt;table('user_card')}" />
+            <marker date="1458791590793" expanded="true" signature="88954:89033" placeholder="SELECT COUNT... ${$ecs-&gt;table('user_bonus')}" />
+            <marker date="1458791590793" expanded="true" signature="90497:90573" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="91457:91533" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="92658:92768" placeholder="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="93385:93461" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="94163:94298" placeholder="SELECT count... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="95173:95227" placeholder="SELECT headi... wxch_user" />
+            <marker date="1458791590793" expanded="true" signature="95277:95328" placeholder="SELECT nickn... wxch_user" />
+            <marker date="1458791590793" expanded="true" signature="95792:95868" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="96570:96705" placeholder="SELECT count... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="97580:97634" placeholder="SELECT headi... wxch_user" />
+            <marker date="1458791590793" expanded="true" signature="97684:97735" placeholder="SELECT nickn... wxch_user" />
+            <marker date="1458791590793" expanded="true" signature="98199:98275" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="98977:99112" placeholder="SELECT count... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="99987:100041" placeholder="SELECT headi... wxch_user" />
+            <marker date="1458791590793" expanded="true" signature="100091:100142" placeholder="SELECT nickn... wxch_user" />
+            <marker date="1458791590793" expanded="true" signature="104233:104303" placeholder="SELECT * FRO... ${$ecs-&gt;table('email_list')}" />
+            <marker date="1458791590793" expanded="true" signature="104438:104533" placeholder="INSERT INTO ${$ecs-&gt;table('email_list')}... " />
+            <marker date="1458791590793" expanded="true" signature="107364:107431" placeholder="DELETE FROM " />
+            <marker date="1458791590793" expanded="true" signature="108785:108951" placeholder="SELECT order... ${$ecs-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="111314:111417" placeholder="SELECT shipp... ${$ecs-&gt;table('touch_shipping')}" />
+            <marker date="1458791590793" expanded="true" signature="112879:112989" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="116714:116823" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="119826:119936" placeholder="SELECT user_... ${$ecs-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="121738:121980" placeholder="INSERT INTO ${$ecs-&gt;table('account_log')}... " />
+            <marker date="1458791590793" expanded="true" signature="124413:124798" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="124882:125267" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="125324:125654" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="125934:126530" placeholder="SELECT o.*, ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="126900:127495" placeholder="SELECT o.*, ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="127851:128383" placeholder="SELECT o.*, ${$GLOBALS['ecs']-&gt;table('order_info')}" />
+            <marker date="1458791590793" expanded="true" signature="129411:129492" placeholder="SELECT wxid ${$GLOBALS['ecs']-&gt;table('users')}" />
+            <marker date="1458791590793" expanded="true" signature="129600:129663" placeholder="SELECT nickn... wxch_user" />
+            <marker date="1458791590793" expanded="true" signature="132177:132198" placeholder="SELECT COUNT... ${$GLOBALS['ecs']-&gt;table('account_log')}" />
+            <marker date="1458791590793" expanded="true" signature="132376:132477" placeholder="SELECT * FRO... ${$GLOBALS['ecs']-&gt;table('account_log')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/miqinew/user_transaction.dwt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="199" column="29" selection-start-line="199" selection-start-column="29" selection-end-line="199" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cls_session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.133022">
+          <caret line="140" column="13" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
+          <folding>
+            <marker date="1456884378000" expanded="true" signature="3811:3968" placeholder="INSERT INTO ${$this-&gt;session_table}... " />
+            <marker date="1456884378000" expanded="true" signature="4051:4204" placeholder="SELECT useri... ${$this-&gt;session_table}" />
+            <marker date="1456884378000" expanded="true" signature="5313:5415" placeholder="SELECT data,... ${$this-&gt;session_data_table}" />
+            <marker date="1456884378000" expanded="true" signature="8610:8671" placeholder="DELETE FROM " />
+            <marker date="1456884378000" expanded="true" signature="8804:8860" placeholder="DELETE FROM " />
+            <marker date="1456884378000" expanded="true" signature="9111:9178" placeholder="DELETE FROM " />
+            <marker date="1456884378000" expanded="true" signature="9596:9685" placeholder="DELETE FROM " />
+            <marker date="1456884378000" expanded="true" signature="9758:9855" placeholder="DELETE FROM " />
+            <marker date="1456884378000" expanded="true" signature="9893:9985" placeholder="DELETE FROM " />
+            <marker date="1456884378000" expanded="true" signature="10144:10165" placeholder="SELECT count... ${$this-&gt;session_table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
